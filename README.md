@@ -121,7 +121,4 @@
             player.setTint(0xff0000);
             player.anims.play('turn');
             scoreText.setText('Game Over! Final Score: ' + score);
-        }
-    </script>
-</body>
-</html>
+   
